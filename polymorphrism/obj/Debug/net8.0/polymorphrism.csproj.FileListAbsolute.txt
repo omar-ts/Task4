@@ -1,0 +1,14 @@
+D:\ErrasoftBackend\sessions\task5\polymorphrism\bin\Debug\net8.0\polymorphrism.exe
+D:\ErrasoftBackend\sessions\task5\polymorphrism\bin\Debug\net8.0\polymorphrism.deps.json
+D:\ErrasoftBackend\sessions\task5\polymorphrism\bin\Debug\net8.0\polymorphrism.runtimeconfig.json
+D:\ErrasoftBackend\sessions\task5\polymorphrism\bin\Debug\net8.0\polymorphrism.dll
+D:\ErrasoftBackend\sessions\task5\polymorphrism\bin\Debug\net8.0\polymorphrism.pdb
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\polymorphrism.GeneratedMSBuildEditorConfig.editorconfig
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\polymorphrism.AssemblyInfoInputs.cache
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\polymorphrism.AssemblyInfo.cs
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\polymorphrism.csproj.CoreCompileInputs.cache
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\polymorphrism.dll
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\refint\polymorphrism.dll
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\polymorphrism.pdb
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\polymorphrism.genruntimeconfig.cache
+D:\ErrasoftBackend\sessions\task5\polymorphrism\obj\Debug\net8.0\ref\polymorphrism.dll

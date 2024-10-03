@@ -1,0 +1,14 @@
+D:\ErrasoftBackend\sessions\task5\duplicationException\bin\Debug\net8.0\duplicationException.exe
+D:\ErrasoftBackend\sessions\task5\duplicationException\bin\Debug\net8.0\duplicationException.deps.json
+D:\ErrasoftBackend\sessions\task5\duplicationException\bin\Debug\net8.0\duplicationException.runtimeconfig.json
+D:\ErrasoftBackend\sessions\task5\duplicationException\bin\Debug\net8.0\duplicationException.dll
+D:\ErrasoftBackend\sessions\task5\duplicationException\bin\Debug\net8.0\duplicationException.pdb
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\duplicationException.GeneratedMSBuildEditorConfig.editorconfig
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\duplicationException.AssemblyInfoInputs.cache
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\duplicationException.AssemblyInfo.cs
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\duplicationException.csproj.CoreCompileInputs.cache
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\duplicationException.dll
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\refint\duplicationException.dll
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\duplicationException.pdb
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\duplicationException.genruntimeconfig.cache
+D:\ErrasoftBackend\sessions\task5\duplicationException\obj\Debug\net8.0\ref\duplicationException.dll

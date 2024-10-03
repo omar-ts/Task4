@@ -1,0 +1,14 @@
+D:\ErrasoftBackend\sessions\task5\demo\bin\Debug\net8.0\demo.exe
+D:\ErrasoftBackend\sessions\task5\demo\bin\Debug\net8.0\demo.deps.json
+D:\ErrasoftBackend\sessions\task5\demo\bin\Debug\net8.0\demo.runtimeconfig.json
+D:\ErrasoftBackend\sessions\task5\demo\bin\Debug\net8.0\demo.dll
+D:\ErrasoftBackend\sessions\task5\demo\bin\Debug\net8.0\demo.pdb
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\demo.AssemblyInfoInputs.cache
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\demo.AssemblyInfo.cs
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\demo.csproj.CoreCompileInputs.cache
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\demo.dll
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\refint\demo.dll
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\demo.pdb
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\demo.genruntimeconfig.cache
+D:\ErrasoftBackend\sessions\task5\demo\obj\Debug\net8.0\ref\demo.dll

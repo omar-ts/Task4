@@ -1,0 +1,14 @@
+D:\ErrasoftBackend\sessions\task5\vowelsException\bin\Debug\net8.0\vowelsException.exe
+D:\ErrasoftBackend\sessions\task5\vowelsException\bin\Debug\net8.0\vowelsException.deps.json
+D:\ErrasoftBackend\sessions\task5\vowelsException\bin\Debug\net8.0\vowelsException.runtimeconfig.json
+D:\ErrasoftBackend\sessions\task5\vowelsException\bin\Debug\net8.0\vowelsException.dll
+D:\ErrasoftBackend\sessions\task5\vowelsException\bin\Debug\net8.0\vowelsException.pdb
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\vowelsException.GeneratedMSBuildEditorConfig.editorconfig
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\vowelsException.AssemblyInfoInputs.cache
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\vowelsException.AssemblyInfo.cs
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\vowelsException.csproj.CoreCompileInputs.cache
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\vowelsException.dll
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\refint\vowelsException.dll
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\vowelsException.pdb
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\vowelsException.genruntimeconfig.cache
+D:\ErrasoftBackend\sessions\task5\vowelsException\obj\Debug\net8.0\ref\vowelsException.dll
